@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "scratchcode",
+  "version": "${version}",
+  "name": "Scratch Code",
+  "description": "Build scripts from Scratch-style blocks (B). Each script starts with a \"when key pressed\" block and runs on its own key. (Formerly Lane Walker.)",
+  "authors": [
+    "You"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.scratchcode.ScratchCodeClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.10",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "icon": "assets/scratchcode/icon.png"
+}
