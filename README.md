@@ -1,8 +1,7 @@
-# Scratch Code: Fabric mod for Minecraft 1.21.10
+Scratch Code: Fabric mod for Minecraft 1.21.10
 
-_Formerly **Lane Walker**. Your saved scripts in `config/lanewalker.txt` are copied to `config/scratchcode.txt` the first time it loads; re-bind the "Open Block Editor" key (default B) in Controls if you had changed it._
 
-Build a walking program out of Scratch-style blocks, then run it.
+Build a program out of Scratch-style blocks, then run it.
 
 ## Controls
 | Input | What it does |
